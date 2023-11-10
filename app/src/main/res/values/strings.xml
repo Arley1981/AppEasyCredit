@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">AppEasyCredit</string>
+
+    // Spinner rol
+    <string-array name="roles">
+        <item>Cajero(a)</item>
+        <item>Administrador/Propietario</item>
+    </string-array>
+
+    <string-array name="identificacion">
+        <item>Cédula</item>
+        <item>TI</item>
+        <item>Pasaporte</item>
+    </string-array>
+
+
+
+</resources>
+
